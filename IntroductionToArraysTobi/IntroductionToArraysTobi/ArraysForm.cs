@@ -16,5 +16,13 @@ namespace IntroductionToArraysTobi
         {
             InitializeComponent();
         }
+
+        private void BtnStart_Click(object sender, EventArgs e)
+        {
+            //Declare local variables
+            int randomNumber;
+            int counter;
+            Random randomnumberGenerator = new Random();
+        }
     }
 }
