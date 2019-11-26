@@ -15,6 +15,21 @@ namespace FindMaxValueTobi
         public frmFindMaxValue()
         {
             InitializeComponent();
+            //hide label
+            lblAnswer.Hide();
+        }
+
+        private void BtnStart_Click(object sender, EventArgs e)
+        {
+            //Show label
+            lblAnswer.Show();
+
+            // Declare local variables
+            const int MAX_ARRAY_SIZE = 10;
+            const int MAX_RANDOM_NUMBER = 500;
+            int[] arrayOfIntegers = new int[MAX_ARRAY_SIZE];
+            int counter, randomNumber, maxValue;
+                
         }
     }
 }

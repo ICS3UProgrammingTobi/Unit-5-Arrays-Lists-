@@ -15,6 +15,13 @@ namespace FindMinValueTobi
         public frmFindMinValue()
         {
             InitializeComponent();
+            //hide label
+            lblAnswer.Hide();
+        }
+
+        private void BtnStart_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
