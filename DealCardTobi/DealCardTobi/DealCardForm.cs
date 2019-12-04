@@ -12,9 +12,23 @@ namespace DealCardTobi
 {
     public partial class frmDealCard : Form
     {
+        //create the list
+        List<Image> ListofCardImages = new List<Image>();
+      
+        List<int> ListofValue;
+
+        private int Dealcard(ref PictureBox; int random )
+        
         public frmDealCard()
         {
             InitializeComponent();
+
+        }
+        
+
+        private void PicCard1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
