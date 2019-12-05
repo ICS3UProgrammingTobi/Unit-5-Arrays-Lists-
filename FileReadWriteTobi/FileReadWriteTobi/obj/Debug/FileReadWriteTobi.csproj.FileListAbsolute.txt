@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\bin\Debug\FileReadWriteTobi.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\bin\Debug\FileReadWriteTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\bin\Debug\FileReadWriteTobi.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\obj\Debug\FileReadWriteTobi.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\obj\Debug\FileReadWriteTobi.frmFileReadWrite.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\obj\Debug\FileReadWriteTobi.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\obj\Debug\FileReadWriteTobi.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\obj\Debug\FileReadWriteTobi.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\obj\Debug\FileReadWriteTobi.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\ATobi (s467316)\Unit 5 (Arrays & Lists)\FileReadWriteTobi\FileReadWriteTobi\obj\Debug\FileReadWriteTobi.pdb
